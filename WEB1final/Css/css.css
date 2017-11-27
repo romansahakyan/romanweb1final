@@ -212,6 +212,10 @@ th, td {
 th h1{
 	font-size: 22px;
 }
+th h2{
+	text-align:center;
+	float: left;
+}
 .xax{
 	height:424px;
 	width:725px;
